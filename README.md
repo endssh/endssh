@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Building <b>Phylex Cloud Infrastructure</b>, <b>AS213905 network systems</b>, and <b>HostViews.de</b><br/>
+  Building <b>Phylex Cloud Infrastructure</b>, <b>AS213905 network systems</b>, and <b>Revuio.de</b><br/>
   Learning <b>Rust</b>, advanced <b>Golang</b> patterns, and scalable distributed systems
 </p>
 
