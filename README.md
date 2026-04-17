@@ -1,52 +1,100 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wzdnRpZW4yaXFoMGN6azZkY3MzNWJ1bHJlbHB4MWo4YTVua3A2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" width="480" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wzdnRpZW4yaXFoMGN6azZkY3MzNWJ1bHJlbHB4MWo4YTVua3A2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" width="480" alt="Banner" />
 </p>
 
-# Hi 👋, I'm Dmitry Kochenko
+<h1 align="center">Hi 👋, I'm Dmitry Kochenko</h1>
+<h3 align="center">Full-Stack Developer • Next.js • Golang • Cloud Infrastructure</h3>
 
-### Full-Stack Developer (Next.js, Golang, Cloud Infrastructure)
+<p align="center">
+  <a href="https://twitter.com/phylexnet" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/phylexnet?logo=twitter&style=for-the-badge" alt="phylexnet" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/phylexnet" target="blank"><img src="https://img.shields.io/twitter/follow/phylexnet?logo=twitter&style=for-the-badge" alt="phylexnet" /></a> </p>
+<p align="center">
+  Building <b>Phylex Cloud Infrastructure</b>, <b>AS213905 network systems</b>, and <b>HostViews.de</b><br/>
+  Learning <b>Rust</b>, advanced <b>Golang</b> patterns, and scalable distributed systems
+</p>
 
-- 🔭 I'm currently working on **Phylex Cloud Infrastructure, AS213905 network systems, and HostViews.de platform**
+---
 
-- 🌱 I'm currently learning **Rust, advanced Golang patterns, and scalable distributed systems**
+### About me
 
-- 👯 I'm looking to collaborate on **High-performance web apps, backend services, API systems, hosting automation, and open-source DevOps tools**
-
-- 🤝 I'm looking for help with **Deep Rust ecosystem, compiler fundamentals, and low-level networking implementations**
-
+- 🔭 Working on **Phylex Cloud Infrastructure, AS213905 network systems, and HostViews.de**
+- 🌱 Learning **Rust, advanced Golang patterns, and scalable distributed systems**
+- 👯 Open to collaborating on **high-performance web apps, backend services, APIs, hosting automation, and open-source DevOps tools**
+- 🤝 Looking for help with **deep Rust ecosystem knowledge, compiler fundamentals, and low-level networking implementations**
 - 💬 Ask me about **Next.js, Golang, cloud hosting, BGP/ASN networking, DevOps, virtualization, and infrastructure design**
+- ⚡ Fun fact: **I run my own hosting infrastructure and autonomous system (AS213905)**
 
+### Contact
 
-- 📫 How to reach me:
-  
-- Telegram: **@endssh**
-- Instagram: **@endssh**
-- X: **@iamendssh** / **@phylexnet**
-- Discord: **discord.gg/phylex**
+- Telegram: **[@endssh](https://t.me/endssh)**
+- Instagram: **[@endssh](https://instagram.com/endssh)**
+- X: **[@iamendssh](https://x.com/iamendssh)** / **[@phylexnet](https://x.com/phylexnet)**
+- Discord: **[discord.gg/phylex](https://discord.gg/phylex)**
 
+### Links
 
-- ⚡ Fun fact **I run my own hosting infrastructure and autonomous system (AS213905).**
+- 👨‍💻 Projects: **[Fiverr](https://www.fiverr.com/ends_s)**
+- 📝 Articles / community: **[Phylex Discord](https://discord.gg/phylex)**
+- 📄 Resume / experience: **[View CV](https://drive.google.com/file/d/16OqiTAlgmdQ0-zzdUfv8wZ7YV6uWqUGB/view?usp=sharing)**
 
-- 👨‍💻 All of my projects are available at **[https://www.fiverr.com/ends_s](https://www.fiverr.com/ends_s)**
+---
 
-- 📝 I regularly write articles on **[https://discord.gg/phylex](https://discord.gg/phylex)**
+### GitHub Overview
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/16OqiTAlgmdQ0-zzdUfv8wZ7YV6uWqUGB/view?usp=sharing](https://drive.google.com/file/d/16OqiTAlgmdQ0-zzdUfv8wZ7YV6uWqUGB/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/endssh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="endssh" height="30" width="40" /></a>
-<a href="https://instagram.com/endssh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="endssh" height="30" width="40" /></a>
-<a href="https://twitter.com/phylexnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phylexnet" height="30" width="40" /></a>
-<a href="https://fiverr.com/ends_s" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="ends_s" height="30" width="30" /></a>
-<a href="https://discord.gg/phylex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="phylex" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=endssh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=endssh" alt="GitHub Streak Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endssh&" alt="endssh" /></p>
+---
 
+### Tech Stack
+
+#### Languages
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=go,ts,js,python,rust,bash,html,css,sql,yaml,json&includeNames=true&theme=darkmode" alt="Languages" />
+</p>
+
+#### Frameworks
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=next,react,tailwind,express,fastapi,bootstrap,electron,django&includeNames=true&theme=darkmode" alt="Frameworks" />
+</p>
+
+#### Tools
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,nodejs,nginx,redis,postgresql,mysql,linux,aws,vercel&includeNames=true&theme=darkmode" alt="Tools" />
+</p>
+
+#### Software & Platforms
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode" alt="Software" />
+</p>
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="https://github.com/endssh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="endssh" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/endssh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="endssh" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/phylexnet" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phylexnet" height="30" width="40" />
+  </a>
+  <a href="https://fiverr.com/ends_s" target="_blank">
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="ends_s" height="30" width="30" />
+  </a>
+  <a href="https://discord.gg/phylex" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="phylex" height="30" width="40" />
+  </a>
+</p>
