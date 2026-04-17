@@ -64,37 +64,34 @@
 
 #### Frameworks
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=next,react,tailwind,express,fastapi,bootstrap,electron,django&includeNames=true&theme=darkmode" alt="Frameworks" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs,express,django,rust,go&theme=dark&perRow=6" />
 </p>
 
 #### Tools
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,nodejs,nginx,redis,postgresql,mysql,linux,aws,vercel&includeNames=true&theme=darkmode" alt="Tools" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,nginx,postgres,mysql,redis,apache&theme=dark&perRow=4" alt="Tools" />
 </p>
 
 #### Software & Platforms
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode" alt="Software" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?software=windows,linux,vscode&theme=dark&perRow=6" alt="Software" />
 </p>
 
 ---
 
-### Connect with me
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://github.com/endssh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="endssh" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/endssh">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://instagram.com/endssh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="endssh" height="30" width="40" />
+  <a href="https://instagram.com/endssh">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="https://twitter.com/phylexnet" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phylexnet" height="30" width="40" />
+  <a href="https://twitter.com/phylexnet">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  <a href="https://fiverr.com/ends_s" target="_blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" alt="ends_s" height="30" width="30" />
-  </a>
-  <a href="https://discord.gg/phylex" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="phylex" height="30" width="40" />
+  <a href="https://discord.gg/phylex">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
