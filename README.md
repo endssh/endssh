@@ -7,8 +7,6 @@
 
 ### Full-Stack Developer (Next.js, Golang, Cloud Infrastructure)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endssh" alt="endssh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/phylexnet" target="blank"><img src="https://img.shields.io/twitter/follow/phylexnet?logo=twitter&style=for-the-badge" alt="phylexnet" /></a> </p>
 
 - 🔭 I'm currently working on **Phylex Cloud Infrastructure, AS213905 network systems, and HostViews.de platform**
